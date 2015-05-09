@@ -1,0 +1,127 @@
+<Furniture>
+	<Furniture Name="Table">
+		<Name>Table</Name>
+		<Description>Posez des choses dessus et des chaises autour</Description>
+	</Furniture>
+	<Furniture Name="Glass Table">
+		<Name>Table en verre</Name>
+		<Description>Profitez d'une vue sur vos pieds pendant que vous travaillez</Description>
+	</Furniture>
+	<Furniture Name="Cheap Chair">
+		<Name>Chaise bon marché</Name>
+		<Description>Chaise en plastique pas très confortable</Description>
+	</Furniture>
+	<Furniture Name="Office Chair">
+		<Name>Chaise de bureau</Name>
+		<Description>Une belle chaise sans roulettes</Description>
+	</Furniture>
+	<Furniture Name="Radiator">
+		<Name>Radiateur</Name>
+		<Description>Machine anti-hiver</Description>
+	</Furniture>
+	<Furniture Name="Ventilation">
+		<Name>Ventilation</Name>
+		<Description>Machine anti-été</Description>
+	</Furniture>
+	<Furniture Name="Old Computer">
+		<Name>Vieil ordinateur</Name>
+		<Description>Une quantité impressionante de pixels !</Description>
+	</Furniture>
+	<Furniture Name="Modern Computer">
+		<Name>Ordinateur moderne</Name>
+		<Description>Ordinateur moderne qui répondra à tous vos besoins</Description>
+	</Furniture>
+	<Furniture Name="HoloComputer">
+		<Name>Ordinateur Holographique</Name>
+		<Description>Bienvenue dans le futur ! Où tout est un peu moins pratique.</Description>
+	</Furniture>
+	<Furniture Name="Lamp">
+		<Name>Lampe</Name>
+		<Description>Pour être sur que vos employés puissent voir lorsqu'ils travaillent tard, ou si vous avez la flemme de poser des fenêtres.</Description>
+	</Furniture>
+	<Furniture Name="Desk Lamp">
+		<Name>Lampe de bureau</Name>
+		<Description>Pour un éclairage d'appoint</Description>
+	</Furniture>
+	<Furniture Name="Floor Lamp">
+		<Name>Lampadaire</Name>
+		<Description>Eclaire une pièce, mais prend de la place</Description>
+	</Furniture>
+	<Furniture Name="Fridge">
+		<Name>Réfrigérateur</Name>
+		<Description>Générateur de nourriture</Description>
+	</Furniture>
+	<Furniture Name="Instant Coffee">
+		<Name>Café instantané</Name>
+		<Description>Vous mettez de la poudre dans de l'eau chaude, et vous êtes tout de suite plus réveillé</Description>
+	</Furniture>
+	<Furniture Name="Coffee">
+		<Name>Café</Name>
+		<Description>Votre machine à café standard</Description>
+	</Furniture>
+	<Furniture Name="Espresso Machine">
+		<Name>Machine à expresso</Name>
+		<Description>Vous propose un café de grande qualité, en faisant énormement de bruit, en consommant beaucoup d'eau et d'électricité</Description>
+	</Furniture>
+	<Furniture Name="Toilet">
+		<Name>Toilette</Name>
+		<Description>Machine pour faire caca</Description>
+	</Furniture>
+	<Furniture Name="Painting">
+		<Name>Peinture</Name>
+		<Description>Une peinture banale pour donner vie à la pièce</Description>
+	</Furniture>
+	<Furniture Name="Floor Plant">
+		<Name>Plante</Name>
+		<Description>Une plante charmante</Description>
+	</Furniture>
+	<Furniture Name="Table Plant">
+		<Name>Plante de table</Name>
+		<Description>Un bonsai low-poly</Description>
+	</Furniture>
+	<Furniture Name="Big Plant">
+		<Name>Grosse plante</Name>
+		<Description>Prend beaucoup de place, mais les employés pensent qu'elle est très jolie</Description>
+	</Furniture>
+	<Furniture Name="Clock">
+		<Name>Horloge</Name>
+		<Description>Une machine à remonter dans le temps ! (pas vraiment...)</Description>
+	</Furniture>
+	<Furniture Name="Small Server">
+		<Name>Petit serveur</Name>
+		<Description>Un ordinateur normal, mais avec une connexion plus puissante</Description>
+	</Furniture>
+	<Furniture Name="Tower Server">
+		<Name>Serveur tour</Name>
+		<Description>Une tour haute performance (pas vraiment une tour)</Description>
+	</Furniture>
+	<Furniture Name="Server Rack">
+		<Name>Rack de serveurs</Name>
+		<Description>Lorsqu'un ordinateur ne suffit pas</Description>
+	</Furniture>
+	<Segment Name="Wall">
+		<Name>Mur</Name>
+		<Description>Utilisez ca pour retirer les fenêtres et les portes</Description>
+	</Segment>
+	<Segment Name="Standard door">
+		<Name>Porte standard</Name>
+		<Description>C'est une porte...</Description>
+	</Segment>
+	<Segment Name="Sliding glass door">
+		<Name>Porte coulissante en verre</Name>
+		<Description>Porte qui sert également de fenêtre</Description>
+	</Segment>
+	<Segment Name="Elevator">
+		<Name>Ascenseur</Name>
+		<Description>Placez des ascenseurs l'un sur l'autre pour connecter les différents étages</Description>
+	</Segment>
+	<Segment Name="Small window">
+		<Name>Petite fenêtre</Name>
+		<Description>Complétement inutile lorsqu'elle est placée entre deux pièces</Description>
+	</Segment>
+	<Segment Name="Large window">
+		<Name>Grande fenêtre</Name>
+		<Description>Si vous voulez encore plus de fenêtres !</Description>
+	</Segment>
+</Furniture>
+
