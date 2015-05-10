@@ -1,13 +1,13 @@
 <Software>
 	<Software Name="Operating System">
-		<Name>Système d'exploitation</Name>
-		<Description>Le système d'exploitation est le logiciel le plus complexe du jeu.
-La majorité des logiciels requierts un système d'exploitation pour tourner. Lorsque les gens n'achetent plus un OS, ils n'achètent plus les logiciels tournant sur ce dernier
+		<Name>SystÃ¨me d'exploitation</Name>
+		<Description>Le systÃ¨me d'exploitation est le logiciel le plus complexe du jeu.
+La majoritÃ© des logiciels requierts un systÃ¨me d'exploitation pour tourner. Lorsque les gens n'achetent plus un OS, ils n'achÃ¨tent plus les logiciels tournant sur ce dernier
 </Description>
 		<Features>
 			<Feature Name="Terminal">
 				<Name>Terminal</Name>
-				<Description>Le terminal est un point d’accès de communication entre l'homme, la machine. Celui-ci est uniquement textuel</Description>
+				<Description>Le terminal est un point dâ€™accÃ¨s de communication entre l'homme, la machine. Celui-ci est uniquement textuel</Description>
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>

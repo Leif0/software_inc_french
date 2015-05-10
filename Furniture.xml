@@ -8,8 +8,8 @@
 		<Description>Profitez d'une vue sur vos pieds pendant que vous travaillez</Description>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
-		<Name>Chaise bon marché</Name>
-		<Description>Chaise en plastique pas très confortable</Description>
+		<Name>Chaise bon marchÃ©</Name>
+		<Description>Chaise en plastique pas trÃ¨s confortable</Description>
 	</Furniture>
 	<Furniture Name="Office Chair">
 		<Name>Chaise de bureau</Name>
@@ -21,47 +21,47 @@
 	</Furniture>
 	<Furniture Name="Ventilation">
 		<Name>Ventilation</Name>
-		<Description>Machine anti-été</Description>
+		<Description>Machine anti-Ã©tÃ©</Description>
 	</Furniture>
 	<Furniture Name="Old Computer">
 		<Name>Vieil ordinateur</Name>
-		<Description>Une quantité impressionante de pixels !</Description>
+		<Description>Une quantitÃ© impressionante de pixels !</Description>
 	</Furniture>
 	<Furniture Name="Modern Computer">
 		<Name>Ordinateur moderne</Name>
-		<Description>Ordinateur moderne qui répondra à tous vos besoins</Description>
+		<Description>Ordinateur moderne qui rÃ©pondra Ã  tous vos besoins</Description>
 	</Furniture>
 	<Furniture Name="HoloComputer">
 		<Name>Ordinateur Holographique</Name>
-		<Description>Bienvenue dans le futur ! Où tout est un peu moins pratique.</Description>
+		<Description>Bienvenue dans le futur ! OÃ¹ tout est un peu moins pratique.</Description>
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lampe</Name>
-		<Description>Pour être sur que vos employés puissent voir lorsqu'ils travaillent tard, ou si vous avez la flemme de poser des fenêtres.</Description>
+		<Description>Pour Ãªtre sur que vos employÃ©s puissent voir lorsqu'ils travaillent tard, ou si vous avez la flemme de poser des fenÃªtres.</Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
 		<Name>Lampe de bureau</Name>
-		<Description>Pour un éclairage d'appoint</Description>
+		<Description>Pour un Ã©clairage d'appoint</Description>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
 		<Name>Lampadaire</Name>
-		<Description>Eclaire une pièce, mais prend de la place</Description>
+		<Description>Eclaire une piÃ¨ce, mais prend de la place</Description>
 	</Furniture>
 	<Furniture Name="Fridge">
-		<Name>Réfrigérateur</Name>
-		<Description>Générateur de nourriture</Description>
+		<Name>RÃ©frigÃ©rateur</Name>
+		<Description>GÃ©nÃ©rateur de nourriture</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Café instantané</Name>
-		<Description>Vous mettez de la poudre dans de l'eau chaude, et vous êtes tout de suite plus réveillé</Description>
+		<Name>CafÃ© instantanÃ©</Name>
+		<Description>Vous mettez de la poudre dans de l'eau chaude, et vous Ãªtes tout de suite plus rÃ©veillÃ©</Description>
 	</Furniture>
 	<Furniture Name="Coffee">
-		<Name>Café</Name>
-		<Description>Votre machine à café standard</Description>
+		<Name>CafÃ©</Name>
+		<Description>Votre machine Ã  cafÃ© standard</Description>
 	</Furniture>
 	<Furniture Name="Espresso Machine">
-		<Name>Machine à expresso</Name>
-		<Description>Vous propose un café de grande qualité, en faisant énormement de bruit, en consommant beaucoup d'eau et d'électricité</Description>
+		<Name>Machine Ã  expresso</Name>
+		<Description>Vous propose un cafÃ© de grande qualitÃ©, en faisant Ã©normement de bruit, en consommant beaucoup d'eau et d'Ã©lectricitÃ©</Description>
 	</Furniture>
 	<Furniture Name="Toilet">
 		<Name>Toilette</Name>
@@ -69,7 +69,7 @@
 	</Furniture>
 	<Furniture Name="Painting">
 		<Name>Peinture</Name>
-		<Description>Une peinture banale pour donner vie à la pièce</Description>
+		<Description>Une peinture banale pour donner vie Ã  la piÃ¨ce</Description>
 	</Furniture>
 	<Furniture Name="Floor Plant">
 		<Name>Plante</Name>
@@ -81,11 +81,11 @@
 	</Furniture>
 	<Furniture Name="Big Plant">
 		<Name>Grosse plante</Name>
-		<Description>Prend beaucoup de place, mais les employés pensent qu'elle est très jolie</Description>
+		<Description>Prend beaucoup de place, mais les employÃ©s pensent qu'elle est trÃ¨s jolie</Description>
 	</Furniture>
 	<Furniture Name="Clock">
 		<Name>Horloge</Name>
-		<Description>Une machine à remonter dans le temps ! (pas vraiment...)</Description>
+		<Description>Une machine Ã  remonter dans le temps ! (pas vraiment...)</Description>
 	</Furniture>
 	<Furniture Name="Small Server">
 		<Name>Petit serveur</Name>
@@ -101,7 +101,7 @@
 	</Furniture>
 	<Segment Name="Wall">
 		<Name>Mur</Name>
-		<Description>Utilisez ca pour retirer les fenêtres et les portes</Description>
+		<Description>Utilisez ca pour retirer les fenÃªtres et les portes</Description>
 	</Segment>
 	<Segment Name="Standard door">
 		<Name>Porte standard</Name>
@@ -109,19 +109,19 @@
 	</Segment>
 	<Segment Name="Sliding glass door">
 		<Name>Porte coulissante en verre</Name>
-		<Description>Porte qui sert également de fenêtre</Description>
+		<Description>Porte qui sert Ã©galement de fenÃªtre</Description>
 	</Segment>
 	<Segment Name="Elevator">
 		<Name>Ascenseur</Name>
-		<Description>Placez des ascenseurs l'un sur l'autre pour connecter les différents étages</Description>
+		<Description>Placez des ascenseurs l'un sur l'autre pour connecter les diffÃ©rents Ã©tages</Description>
 	</Segment>
 	<Segment Name="Small window">
-		<Name>Petite fenêtre</Name>
-		<Description>Complétement inutile lorsqu'elle est placée entre deux pièces</Description>
+		<Name>Petite fenÃªtre</Name>
+		<Description>ComplÃ©tement inutile lorsqu'elle est placÃ©e entre deux piÃ¨ces</Description>
 	</Segment>
 	<Segment Name="Large window">
-		<Name>Grande fenêtre</Name>
-		<Description>Si vous voulez encore plus de fenêtres !</Description>
+		<Name>Grande fenÃªtre</Name>
+		<Description>Si vous voulez encore plus de fenÃªtres !</Description>
 	</Segment>
 </Furniture>
 
