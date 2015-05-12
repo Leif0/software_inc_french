@@ -320,66 +320,66 @@ Taille de l'équipe recommandée: {8}</Item>
 	</EducationWindow>
 	<DistributionWindow>
 		<Item Name="Make Deal">Make deal</Item>
-		<Item Name="Take offline">Take offline</Item>
+		<Item Name="Take offline">Déconnecter</Item>
 		<Item Name="Re-opn">Re-opn</Item>
-		<Item Name="Popularity history">Popularity history</Item>
-		<Item Name="Your distribution channel">Your distribution channel</Item>
+		<Item Name="Popularity history">Historique de popularité</Item>
+		<Item Name="Your distribution channel">Votre circuit de distribution</Item>
 		<Item Name="Cut">Cut</Item>
-		<Item Name="Open">Open</Item>
-		<Item Name="StoreName">Store name...</Item>
+		<Item Name="Open">Ouvrir</Item>
+		<Item Name="StoreName">Nom du magasin...</Item>
 	</DistributionWindow>
 	<WageWindow>
-		<Item Name="Employee request">Employee request</Item>
-		<Item Name="Accept">Accept</Item>
-		<Item Name="Close">Close</Item>
+		<Item Name="Employee request">Demande de l'employé</Item>
+		<Item Name="Accept">Accepter</Item>
+		<Item Name="Close">Fermer</Item>
 	</WageWindow>
 	<LoanWindow>
-		<Item Name="Amount">Amount</Item>
-		<Item Name="Interest">Interest</Item>
-		<Item Name="Period">Period</Item>
-		<Item Name="Current loans">Current loans</Item>
-		<Item Name="Take loan">Take loan</Item>
+		<Item Name="Amount">Montant</Item>
+		<Item Name="Interest">Intérêt</Item>
+		<Item Name="Period">Période</Item>
+		<Item Name="Current loans">Emprunts actuels</Item>
+		<Item Name="Take loan">Accepter l'emprunt</Item>
 	</LoanWindow>
 	<InsuranceWindow>
-		<Item Name="Deposit">Deposit</Item>
-		<Item Name="Withdraw">Withdraw</Item>
-		<Item Name="InsuranceFunds">Funds on insurance account</Item>
-		<Item Name="HealthInsurance">Health insurance:(Attracts junior level employees)</Item>
-		<Item Name="LifeInsurance">Life insurance:(Attracts intermediate level employees)</Item>
-		<Item Name="PensionDesc">Pension:(Attracts senior level employees)</Item>
-		<Item Name="PerEmployee">per employee</Item>
+		<Item Name="Deposit">Déposer</Item>
+		<Item Name="Withdraw">Retirer</Item>
+		<Item Name="InsuranceFunds">Fonds sur le compte d'assurance</Item>
+		<Item Name="HealthInsurance">Assurance maladie: (Attire des débutants)</Item>
+		<Item Name="LifeInsurance">Assurance vie: (attire des employés de niveau intermédiaire)</Item>
+		<Item Name="PensionDesc">Retraite:(Attire des employés experimentés)</Item>
+		<Item Name="PerEmployee">par employé</Item>
 	</InsuranceWindow>
 	<StockWindow>
-		<Item Name="SharesIn">Shares in company:</Item>
-		<Item Name="SharesOut">Owned shares:</Item>
+		<Item Name="SharesIn">Parts dans l'entreprise:</Item>
+		<Item Name="SharesOut">Parts possédées:</Item>
 	</StockWindow>
 	<StaffWindow>
 		<Item Name="Permanent">Permanent</Item>
-		<Item Name="Temporary">Temporary</Item>
-		<Item Name="Call janitor">Call janitor</Item>
-		<Item Name="Call cleaning">Call cleaning</Item>
-		<Item Name="Call IT-support">Call IT-support</Item>
-		<Item Name="Hire janitor">Hire janitor</Item>
-		<Item Name="Hire cleaning">Hire cleaning</Item>
-		<Item Name="PerHour"> per hour</Item>
-		<Item Name="PerMonth"> per month</Item>
-		<Item Name="ITPayment">{0} up front
-Up to {0} per repair</Item>
-		<Item Name="SharesIn">Shares in company:</Item>
+		<Item Name="Temporary">Temporaire</Item>
+		<Item Name="Call janitor">Appeler un concierge</Item>
+		<Item Name="Call cleaning">Appeler un agent d'entretien</Item>
+		<Item Name="Call IT-support">Appeler le support technique</Item>
+		<Item Name="Hire janitor">Embaucher un concierge</Item>
+		<Item Name="Hire cleaning">Embaucher un agent d'entretien</Item>
+		<Item Name="PerHour"> par heure</Item>
+		<Item Name="PerMonth"> par mois</Item>
+		<Item Name="ITPayment">{0} directement
+Jusqu'à {0} par réparation</Item>
+		<Item Name="SharesIn">Parts dans l'entreprise:</Item>
 	</StaffWindow>
 	<Newspaper>
-		<Item Name="Review section">Review section</Item>
-		<Item Name="Business section">Business section</Item>
-		<Item Name="Industry section">Industry section</Item>
-		<Item Name="Player section">You</Item>
+		<Item Name="Review section">Section critiques</Item>
+		<Item Name="Business section">Section business</Item>
+		<Item Name="Industry section">Section industrie</Item>
+		<Item Name="Player section">Vous</Item>
 	</Newspaper>
 	<Pause>
-		<Item Name="Resume">Resume</Item>
-		<Item Name="Save game">Save game</Item>
-		<Item Name="Save game as">Save game as...</Item>
-		<Item Name="Load game">Load game</Item>
-		<Item Name="Quit to menu">Quit to menu</Item>
-		<Item Name="Quit to desktop">Quit to desktop</Item>
+		<Item Name="Resume">Reprendre</Item>
+		<Item Name="Save game">Sauvegarder</Item>
+		<Item Name="Save game as">Sauvegarder sous...</Item>
+		<Item Name="Load game">Charger</Item>
+		<Item Name="Quit to menu">Quitter vers le menu</Item>
+		<Item Name="Quit to desktop">Quitter vers le bureau</Item>
 	</Pause>
 	<Marketing>
 		<Item Name="Interwebs">Interwebs</Item>
