@@ -123,60 +123,60 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 		</Features>
 	</Software>
 	<Software Name="Game">
-		<Name>Game</Name>
-		<Description>Interactive art.</Description>
+		<Name>Jeu</Name>
+		<Description>De l'art interactif</Description>
 		<Features>
 			<Feature Name="Text-based">
-				<Name>Text-based</Name>
-				<Description>Make the player type a novel to complete the game</Description>
+				<Name>Basé sur du texte</Name>
+				<Description>Forcer le joueur à écrire un roman pour finir le jeu.</Description>
 			</Feature>
 			<Feature Name="2D graphics">
-				<Name>2D graphics</Name>
+				<Name>Graphiques 2D</Name>
 			</Feature>
 			<Feature Name="3D graphics">
-				<Name>3D graphics</Name>
+				<Name>Graphiques 3D</Name>
 			</Feature>
 			<Feature Name="Music">
-				<Name>Music</Name>
+				<Name>Musique</Name>
 			</Feature>
 			<Feature Name="Dialog">
-				<Name>Dialog</Name>
+				<Name>Dialogue</Name>
 			</Feature>
 			<Feature Name="Open world">
-				<Name>Open world</Name>
+				<Name>Monde ouvert</Name>
 			</Feature>
 			<Feature Name="AI">
-				<Name>AI</Name>
+				<Name>IA</Name>
 			</Feature>
 			<Feature Name="Multiplayer">
-				<Name>Multiplayer</Name>
-				<Description>Facilitate the screaming of obscenities by teenagers from all over the world</Description>
+				<Name>Multijoueur</Name>
+				<Description>Facilite l'échange d'obscénités entre adolescents de partout dans le monde.</Description>
 			</Feature>
 			<Feature Name="MMO">
 				<Name>MMO</Name>
 			</Feature>
 			<Feature Name="Joystick support">
-				<Name>Joystick support</Name>
+				<Name>Support des Joysticks</Name>
 			</Feature>
 		</Features>
 	</Software>
 	<Software Name="Webbased Game">
-		<Name>Webbased Game</Name>
-		<Description>Webbased games are not bound to any operating system, but suffer the conequences of not being able to fully utilize the underlying system.</Description>
+		<Name>Jeu en ligne</Name>
+		<Description>Les jeux en ligne ne dépendent pas du système d'exploitation, par conséquent, ils ne peuvent pas utiliser toute la puissance du système.</Description>
 		<Features>
 			<Feature Name="HTML based">
-				<Name>HTML based</Name>
+				<Name>Basé sur le HTML</Name>
 				<Description>Spreadsheet games! Yaaay!</Description>
 			</Feature>
 			<Feature Name="2D graphics">
-				<Name>2D graphics</Name>
+				<Name>Graphiques 2D</Name>
 			</Feature>
 			<Feature Name="3D graphics">
-				<Name>3D graphics</Name>
-				<Description>Add that third dimension to your webgame.</Description>
+				<Name>Graphiques 3D</Name>
+				<Description>Ajoutez la 3ème dimension à votre jeu en ligne.</Description>
 			</Feature>
 			<Feature Name="Music">
-				<Name>Music</Name>
+				<Name>Musique</Name>
 			</Feature>
 			<Feature Name="MMO">
 				<Name>MMO</Name>
@@ -185,76 +185,76 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 	</Software>
 	<Software Name="Antivirus">
 		<Name>Antivirus</Name>
-		<Description>Protecting computers from digital troublemakers since it became profitable to do so.</Description>
+		<Description>Protège les ordinateurs des trouble-fêtes numériques depuis que c'est rentable.</Description>
 		<Features>
 			<Feature Name="File scan">
-				<Name>File scan</Name>
+				<Name>Scan de fichiers</Name>
 			</Feature>
 			<Feature Name="Firewall">
-				<Name>Firewall</Name>
+				<Name>Pare-feu</Name>
 			</Feature>
 			<Feature Name="Background scan">
-				<Name>Background scan</Name>
-				<Description>Scan for viruses in the background causing hilarious file locks randomly</Description>
+				<Name>Scan en arrière-plan</Name>
+				<Description>Rechercher des virus en arrière-plan cause des verrous de fichiers aléatoires hilarants.</Description>
 			</Feature>
 			<Feature Name="Mail scan">
-				<Name>Mail scan</Name>
-				<Description>There's always room for enlargement</Description>
+				<Name>Scan des e-mails</Name>
+				<Description>Il y a toujours de la place pour agrandir.</Description>
 			</Feature>
 			<Feature Name="Virus database">
-				<Name>Virus database</Name>
-				<Description>Automagically keep your user's virus definitions up to date</Description>
+				<Name>Base de donnée de virus</Name>
+				<Description>Garde automagiquement les définitions de virus de votre utilisateur à jour.</Description>
 			</Feature>
 		</Features>
 	</Software>
 	<Software Name="Logistics Application">
-		<Name>Logistics Application</Name>
+		<Name>Application de logistique</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Excel sheet">
-				<Name>Excel sheet</Name>
+				<Name>Tableau Excel</Name>
 			</Feature>
 			<Feature Name="DBMS">
-				<Name>DBMS</Name>
+				<Name>SGDB</Name>
 			</Feature>
 			<Feature Name="Small OS">
-				<Name>Small OS</Name>
+				<Name>Petit système d'exploitation</Name>
 			</Feature>
 		</Features>
 	</Software>
 	<Software Name="Website">
-		<Name>Website</Name>
+		<Name>Site web</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="One page site">
-				<Name>One page site</Name>
+				<Name>Site d'une page</Name>
 			</Feature>
 			<Feature Name="Static website">
-				<Name>Static website</Name>
+				<Name>Site statique</Name>
 			</Feature>
 			<Feature Name="Dynamic website">
-				<Name>Dynamic website</Name>
+				<Name>Site dynamique</Name>
 			</Feature>
 		</Features>
 	</Software>
 	<Software Name="Webstore">
-		<Name>Webstore</Name>
+		<Name>Boutique en ligne</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Static storefront">
-				<Name>Static storefront</Name>
+				<Name>Boutique statique</Name>
 			</Feature>
 			<Feature Name="Dynamic webstore">
-				<Name>Dynamic webstore</Name>
+				<Name>Boutique dynamique</Name>
 			</Feature>
 			<Feature Name="Multi-store website">
-				<Name>Multi-store website</Name>
+				<Name>Boutique multi-magasin</Name>
 			</Feature>
 		</Features>
 	</Software>
 	<Feature Name="QA">
-		<Name>QA</Name>
-		<Description>Use Quality Assurance to release a more stable product or fix the bugs as your customers irritably stumble into them</Description>
+		<Name>AQ</Name>
+		<Description>Utilisez l'assurance qualité pour développer un logiciel plus stable ou réparer les bugs à mesure que vos utilisateurs tombent dessus.</Description>
 	</Feature>
 </Software>
 
