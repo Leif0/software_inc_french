@@ -516,82 +516,82 @@ Jusqu'à {0} par réparation</Item>
 		<Item Name="SalaryCutComplaint">Mon salaire a été réduit</Item>
 	</Thoughts>
 	<Warnings>
-		<Item Name="UnsatisfiedEmployeesWarning">Some employees are unhappy with their job</Item>
-		<Item Name="StarvingWarning">An employee is hungry and is having trouble working</Item>
-		<Item Name="HasToPeeWarning">An employee has to pee and is having trouble working</Item>
-		<Item Name="WornOutWarning">An employee is tired and can't work</Item>
-		<Item Name="FreezingWarning">An employee is freezing</Item>
-		<Item Name="BurningWarning">An employee is hot</Item>
-		<Item Name="NoSeeWarning">An employee stumbling in the dark</Item>
-		<Item Name="RoomDirtyWarning">An employee is grossed out by his office</Item>
-		<Item Name="RoomDirtyWarning2">A room is dirty and needs cleaning up</Item>
-		<Item Name="ComputerBadWarning">An employee is complaining about a slow computer</Item>
-		<Item Name="NoiseWarning">An employee is having trouble concentrating</Item>
-		<Item Name="OtherTeamWarning">There are too many teams in one of your rooms</Item>
-		<Item Name="CannotAfford">You can't afford this</Item>
-		<Item Name="BusFullWarning">The busses are filling up, consider building parking</Item>
-		<Item Name="Click and drag">Click and drag</Item>
-		<Item Name="RoomClosedOff">There is no way to get in to this room
-Add doors or elevators</Item>
-		<Item Name="PublicToiletWarning">Employees won't use toilets in public
-Separate toilets in to other rooms</Item>
-		<Item Name="RoomTempratureWarning">The temperature will vary a lot in this room
-Add more radiators and ventilation</Item>
-		<Item Name="RoomOvercrowdWarning">There are a lot of computers in this room
-Overcrowded rooms can distract employees</Item>
-		<Item Name="RoomLighingWaning">There is not enough light here
-Add windows or lamps</Item>
-		<Item Name="ComputerBrokeWarning">A computer broke and needs IT-support</Item>
-		<Item Name="FurnitureBrokeWarning">Some inventory broke and needs a janitor</Item>
-		<Item Name="UnsupportedStructure">The structure is not supported</Item>
-		<Item Name="RoomOnRoad">You can't build on top of roads</Item>
-		<Item Name="RoomInRoom">You can't build within other rooms.
-If you want to split a room you have to build from wall to wall</Item>
-		<Item Name="RoomOutOfPlot">You have to build within your plot boundaries</Item>
-		<Item Name="RoomTooSmall">Your rooms have to be at least 2x2</Item>
-		<Item Name="CannotReplaceDuplicateSegment">Can't replace {0} with {0}</Item>
-		<Item Name="SegmentOnBoundary">You have to place this on a room boundary</Item>
-		<Item Name="FurnitureInRoom">You have to place furniture inside your rooms</Item>
-		<Item Name="FurnitureOnWall">You have to place this up against a wall</Item>
-		<Item Name="FurnitureOnTable">You have to place this on an unoccupied table</Item>
-		<Item Name="FurnitureOccupied">This space is already occupied</Item>
-		<Item Name="FurnitureAtTable">You have to place this at a table</Item>
+		<Item Name="UnsatisfiedEmployeesWarning">Certains employés sont mécontents de leur travail</Item>
+		<Item Name="StarvingWarning">Un employé a faim et a du mal à travailler</Item>
+		<Item Name="HasToPeeWarning">Un employé a envie d'aller aux toilettes et a du mal à travailler</Item>
+		<Item Name="WornOutWarning">Un employé est fatigué et ne peut pas travailler</Item>
+		<Item Name="FreezingWarning">Un employé a très froid</Item>
+		<Item Name="BurningWarning">Un employé a trop chaud</Item>
+		<Item Name="NoSeeWarning">Un employé est dans le noir complet</Item>
+		<Item Name="RoomDirtyWarning">Un employé est dégouté par son bureau</Item>
+		<Item Name="RoomDirtyWarning2">Une pièce est sale, elle doit être nettoyée</Item>
+		<Item Name="ComputerBadWarning">L'ordinateur d'un employé est trop lent</Item>
+		<Item Name="NoiseWarning">Un employé a du mal à se concentrer</Item>
+		<Item Name="OtherTeamWarning">Il y a trop d'équipes dans la même pièce</Item>
+		<Item Name="CannotAfford">Fonds insuffisants</Item>
+		<Item Name="BusFullWarning">Les bus commencent à être pleins, pensez à construire un parking</Item>
+		<Item Name="Click and drag">Cliquez et glissez</Item>
+		<Item Name="RoomClosedOff">Aucun moyen d'accéder à cette pièce
+Ajoutez des portes ou des ascenseurs</Item>
+		<Item Name="PublicToiletWarning">Les employés n'utilisent pas les toilettes en public
+Séparez les toilettes avec des murs</Item>
+		<Item Name="RoomTempratureWarning">Les températures varient beaucoup dans cette pièce
+Ajoutez des radiateurs et de la ventilation</Item>
+		<Item Name="RoomOvercrowdWarning">Trop d'ordinateurs dans cette pièce
+Les pièces trop chargées peuvent distraire les employés</Item>
+		<Item Name="RoomLighingWaning">Pas assez de lumière
+Ajoutez des fenêtres ou des lampes</Item>
+		<Item Name="ComputerBrokeWarning">Un ordinateur ne fonctionne plus et nécessite l'intervention du support technique</Item>
+		<Item Name="FurnitureBrokeWarning">Un objet est cassé et nécessite l'invervention d'un concierge</Item>
+		<Item Name="UnsupportedStructure">La structure n'est pas supportée</Item>
+		<Item Name="RoomOnRoad">Construction impossible sur les routes</Item>
+		<Item Name="RoomInRoom">Construction impossible à l'intérieur d'une autre pièce
+Si vous voulez séparer la pièce, vous devez construire d'un mur à l'autre</Item>
+		<Item Name="RoomOutOfPlot">Vous devez construire à l'intérieur de votre zone</Item>
+		<Item Name="RoomTooSmall">Vos pièces doivent faire au minimum 2x2</Item>
+		<Item Name="CannotReplaceDuplicateSegment">Impossible de remplacer {0} avec {0}</Item>
+		<Item Name="SegmentOnBoundary">Vous devez placer ceci dans une pièce</Item>
+		<Item Name="FurnitureInRoom">Vous devez placer les meubles à l'intérieur d'une pièce</Item>
+		<Item Name="FurnitureOnWall">Vous devez placer ceci sur un mur</Item>
+		<Item Name="FurnitureOnTable">Vous devez placer ceci sur une table libre</Item>
+		<Item Name="FurnitureOccupied">Cet espace est déjà occupée</Item>
+		<Item Name="FurnitureAtTable">Vous devez placer ceci sur une table</Item>
 	</Warnings>
 	<Affectors>
-		<Item Name="Hunger">Hunger</Item>
-		<Item Name="Energy">Energy</Item>
-		<Item Name="Bladder">Bladder</Item>
-		<Item Name="Job satisfaction">Job satisfaction</Item>
-		<Item Name="Fired">Fired</Item>
+		<Item Name="Hunger">Faim</Item>
+		<Item Name="Energy">Energie</Item>
+		<Item Name="Bladder">Vessie</Item>
+		<Item Name="Job satisfaction">Satisfaction</Item>
+		<Item Name="Fired">Renvoyé</Item>
 		<Item Name="Temperature">Temperature</Item>
-		<Item Name="Environment">Environment</Item>
-		<Item Name="Comfort">Comfort</Item>
-		<Item Name="Computer">Computer</Item>
-		<Item Name="Noise">Noise</Item>
-		<Item Name="Lighting">Lighting</Item>
-		<Item Name="Basement">Basement</Item>
-		<Item Name="Other teams">Other teams</Item>
-		<Item Name="Hunger">Hunger</Item>
+		<Item Name="Environment">Environnement</Item>
+		<Item Name="Comfort">Confort</Item>
+		<Item Name="Computer">Ordinateur</Item>
+		<Item Name="Noise">Bruit</Item>
+		<Item Name="Lighting">Lumière</Item>
+		<Item Name="Basement">Sous-sol</Item>
+		<Item Name="Other teams">Autres équipes</Item>
+		<Item Name="Hunger">Faim</Item>
 	</Affectors>
 	<Dialogs>
-		<Item Name="EmployeeQuitTitle">{0} wants to quit</Item>
-		<Item Name="AndSeperator"> and </Item>
-		<Item Name="OrSeperator"> or </Item>
-		<Item Name="EmployeeQuitRaise">Raise salary by {0}</Item>
-		<Item Name="DemoWarning">This feature is not available in the demo</Item>
-		<Item Name="DemoFloorWarning">You are only allowed to build on the first two floors in the demo</Item>
-		<Item Name="OverwriteConfirmMsg">Are you sure you want to overwrite?</Item>
+		<Item Name="EmployeeQuitTitle">{0} veut démissioner</Item>
+		<Item Name="AndSeperator"> et </Item>
+		<Item Name="OrSeperator"> ou </Item>
+		<Item Name="EmployeeQuitRaise">Augmenter le salaire de {0}</Item>
+		<Item Name="DemoWarning">Cette fonctionnalité n'est pas disponible dans la démo</Item>
+		<Item Name="DemoFloorWarning">Dans la démo, la construction est possible jusqu'au deuxième étage uniquement</Item>
+		<Item Name="OverwriteConfirmMsg">Voulez vous vraiment remplacer ?</Item>
 		<Item Name="OverwriteConfirmTitle">Confirmation</Item>
 		<Item Name="DismissTitle">Dismiss</Item>
-		<Item Name="DismissMsg">Are you sure you want to dismiss {0} workers?</Item>
-		<Item Name="DismissMsg2">Dismiss {0} workers</Item>
-		<Item Name="SellTitle">Sell</Item>
-		<Item Name="SellMsg">Are you sure you want to sell {0} pieces of furniture?</Item>
-		<Item Name="SellMsg2">Sell {0} pieces of furniture</Item>
-		<Item Name="BulldozeTitle">Bulldoze</Item>
-		<Item Name="BulldozeMsg">Are you sure you want to bulldoze {0} rooms?</Item>
-		<Item Name="BulldozeMsg2">Bulldoze {0} rooms</Item>
-		<Item Name="CannotBulldozeSupport">One or more rooms are used for support and cannot be destroyed</Item>
+		<Item Name="DismissMsg">Confirmer le licenciement de {0} personnes ?</Item>
+		<Item Name="DismissMsg2">Licensiement de {0} personnes</Item>
+		<Item Name="SellTitle">Vendre</Item>
+		<Item Name="SellMsg">Confirmer la vente de {0} objets ?</Item>
+		<Item Name="SellMsg2">Vente de {0} objets</Item>
+		<Item Name="BulldozeTitle">Détruire</Item>
+		<Item Name="BulldozeMsg">Confirmer la destruction de {0} pièces ?</Item>
+		<Item Name="BulldozeMsg2">Destruction de {0} pièces</Item>
+		<Item Name="CannotBulldozeSupport">Une ou plusieurs pièces sont porteuses, destruction impossible</Item>
 		<Item Name="SaveGameFail">Failed saving game. The game will continue, but you might experience weird behavior or loss of data.
 The error has been logged. If you want, you can send in details of your problem or your save file by going to Swinc.net or sending a mail to SoftwareInc@Coredumping.com
 Sorry for the inconvenience.</Item>
