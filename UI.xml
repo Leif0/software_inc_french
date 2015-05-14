@@ -592,137 +592,135 @@ Si vous voulez séparer la pièce, vous devez construire d'un mur à l'autre</It
 		<Item Name="BulldozeMsg">Confirmer la destruction de {0} pièces ?</Item>
 		<Item Name="BulldozeMsg2">Destruction de {0} pièces</Item>
 		<Item Name="CannotBulldozeSupport">Une ou plusieurs pièces sont porteuses, destruction impossible</Item>
-		<Item Name="SaveGameFail">Failed saving game. The game will continue, but you might experience weird behavior or loss of data.
-The error has been logged. If you want, you can send in details of your problem or your save file by going to Swinc.net or sending a mail to SoftwareInc@Coredumping.com
-Sorry for the inconvenience.</Item>
-		<Item Name="LoadGameFail">Failed loading game. The game will continue, but you might experience weird behavior or loss of data.
-The error has been logged. If you want, you can send in details of your problem or your save file by going to Swinc.net or sending a mail to SoftwareInc@Coredumping.com
-Sorry for the inconvenience.</Item>
-		<Item Name="MissingSaveContinue">You need to have a game saved before you can continue</Item>
-		<Item Name="SaveGameSuccess">Gaem saved</Item>
-		<Item Name="SaveGameSuccessTitle">Success</Item>
-		<Item Name="NoStockInterest">Nobody is interested in this stock</Item>
-		<Item Name="NoStockInterestTitle">Sorry</Item>
-		<Item Name="StockWatError">You can't sell your entire company, that would make you lose.</Item>
-		<Item Name="StockRepLow">Your reputation is too low to trade stocks of this amount</Item>
+		<Item Name="SaveGameFail">Echec de la sauvegarde. La partie va continuer mais vous pouvez subir une perte de données et autres effets secondaires.
+L'erreur a été ajoutée au log. Vous pouvez envoyer les détails de l'erreur ou votre fichier de sauvegarde par mail à SoftwareInc@Coredumping.com</Item>
+		<Item Name="LoadGameFail">Echec du chargement. La partie va continuer mais vous pouvez subir une perte de données et autres effets secondaires.
+L'erreur a été ajoutée au log. Vous pouvez envoyer les détails de l'erreur ou votre fichier de sauvegarde par mail à SoftwareInc@Coredumping.com</Item>
+		<Item Name="MissingSaveContinue">Vous devez avoir une sauvegarde pour continuer</Item>
+		<Item Name="SaveGameSuccess">Partie sauvegardée</Item>
+		<Item Name="SaveGameSuccessTitle">Réussite</Item>
+		<Item Name="NoStockInterest">Personne n'est interessé par cette action</Item>
+		<Item Name="NoStockInterestTitle">Désolé</Item>
+		<Item Name="StockWatError">Vous ne pouvez pas vendre votre entreprise, la partie serait terminée.</Item>
+		<Item Name="StockRepLow">Votre réputation est trop basse pour pouvoir échanger autant d'actions</Item>
 		<Item Name="HRNoRooms">You have enabled HR management for a team that has no rooms.
 Please designate some rooms for this team so the team lead can do his job properly</Item>
-		<Item Name="DesignProductNameError">A product with this name already exists</Item>
-		<Item Name="ProductOSError">Please select one or more operating systems</Item>
-		<Item Name="ProductNeedError">Please select a product for each need</Item>
-		<Item Name="DesignProductNameHint">You haven't picked a name for your software, are you sure you want to continue?</Item>
-		<Item Name="DesignProductTeamSizeHint">The size of the team you've chosen is quite small for a project of this size
-Are you sure you want to continue?</Item>
-		<Item Name="DesignProductFeatureHint">You have selected features that no one on your team is competent with.
-Are you sure you want to continue?</Item>
-		<Item Name="ProductLicenseError">You can't afford the license costs</Item>
-		<Item Name="DistributionNameError">This name is already taken</Item>
-		<Item Name="DistributionServerError">Please select a server</Item>
-		<Item Name="DistributionNameWarning">Are you sure you want to open a distribution channel named {0}? You won't be able to change the name later</Item>
+		<Item Name="DesignProductNameError">Ce nom de produit est déjà utilisé</Item>
+		<Item Name="ProductOSError">Merci de choisir un ou plusieurs systèmes d'exploitation</Item>
+		<Item Name="ProductNeedError">Merci de choisir un produit pour chaque besoin</Item>
+		<Item Name="DesignProductNameHint">Votre logiciel n'a pas de nom, êtes-vous sûr de vouloir continuer ?</Item>
+		<Item Name="DesignProductTeamSizeHint">La taille de l'équipe choisie est trop petite pour réaliser un projet de cette taille
+Voulez vous continuer ?</Item>
+		<Item Name="DesignProductFeatureHint">Vous avez selectionné des fonctionnalités que personne de l'équipe ne maitrise
+Voulez vous continuer ?</Item>
+		<Item Name="ProductLicenseError">Vous n'avez pas les moyens pour payer les licences</Item>
+		<Item Name="DistributionNameError">Ce nom est déjà pris</Item>
+		<Item Name="DistributionServerError">Merci de sélectionner un serveur</Item>
+		<Item Name="DistributionNameWarning">Etes-vous sûr de vouloir ouvrir un circuit de distribution nommé {0} ? Vous ne pourrez pas le modifier plus tard</Item>
 		<Item Name="DistributionOfflineWarning">Are you sure you want to take it offline? This will anger your clients and their customers</Item>
-		<Item Name="EmployeeCourseBookError">The employee(s) you selected are already scheduled for courses</Item>
-		<Item Name="TeamNameError">A team with this name already exists</Item>
-		<Item Name="TeamEmptyNameError">Please enter a non-empty team name</Item>
-		<Item Name="LowMoneyHireWarning">You have limited funds to sustain your company if you hire {0}. Are you sure don't want to wait?</Item>
-		<Item Name="LowInsuranceHireWarning">You don't have a lot of funds in your insurance account, which will decrease the amount of high quality applicants. Are you sure you want to continue?</Item>
-		<Item Name="WinDialogMsg">Congratulations! You completed this scenario.</Item>
-		<Item Name="WinDialogMsgTitle">You win!</Item>
-		<Item Name="WinDialogMsgQuit">Quit</Item>
-		<Item Name="WinDialogMsgContinue">Continue playing</Item>
-		<Item Name="LoseDialogMsg">You failed to complete this scenario.</Item>
-		<Item Name="LoseDialogMsgTitle">You lose!</Item>
-		<Item Name="BankruptInsurance">You have {0} in your account.
-Do you want to withdraw {1} from your insurance funds to try to avoid going bankrupt?</Item>
-		<Item Name="BankruptStock">You have {0} in your account.
-Do you want to sell your stocks worth {1} to try to avoid going bankrupt?</Item>
-		<Item Name="BankruptLoan">You have {0} in your account.
-Do you want to take a loan worth {1} to avoid going bankrupt?</Item>
-		<Item Name="BankruptLoseMsg">You went bankrupt with {0} in your account.</Item>
+		<Item Name="EmployeeCourseBookError">L'employé sélectionné a déjà des cours de prévu</Item>
+		<Item Name="TeamNameError">Ce nom d'équipe est déjà utilisé</Item>
+		<Item Name="TeamEmptyNameError">Merci d'entrer un nom pour l'équipe</Item>
+		<Item Name="LowMoneyHireWarning">Vos fonds seront insuffisants si vous engagez {0}. Etes-vous sûr de ne pas vouloir attendre un peu ?</Item>
+		<Item Name="LowInsuranceHireWarning">Vous n'avez pas beaucoup d'argent sur votre compte d'assurance, ce qui fera baisser la qualité des postulants. Etes-vous sûr de vouloir continuer ?</Item>
+		<Item Name="WinDialogMsg">Bien joué ! Vous avez terminé ce scénario.</Item>
+		<Item Name="WinDialogMsgTitle">Vous avez gagné !</Item>
+		<Item Name="WinDialogMsgQuit">Quitter</Item>
+		<Item Name="WinDialogMsgContinue">Continuer à jouer</Item>
+		<Item Name="LoseDialogMsg">Vous avez échoué.</Item>
+		<Item Name="LoseDialogMsgTitle">Vous avez perdu !</Item>
+		<Item Name="BankruptInsurance">Vous avez {0} dans votre compte en banque.
+Voulez vous retirer {1} de votre compte d'assurance pour éviter la faillite ?</Item>
+		<Item Name="BankruptStock">Vous avez {0} sur votre compte en banque.
+Voulez vous vendre vos actions d'une valeur de {1} pour essayer d'éviter la faillite ?</Item>
+		<Item Name="BankruptLoan">Vous avez {0} sur votre compte en banque
+Voulez-vous emprunter {1} pour éviter la faillite ?</Item>
+		<Item Name="BankruptLoseMsg">Vous avez fait faillite avec {0} sur votre compte en banque.</Item>
 	</Dialogs>
 	<FurnitureInfo>
-		<Item Name="Currently used by">Currently used by</Item>
-		<Item Name="Owned by">Owned by</Item>
-		<Item Name="Nobody">Nobody</Item>
-		<Item Name="Currently on">Currently on</Item>
-		<Item Name="Currently off">Currently off</Item>
-		<Item Name="FurnitureUnlock">This item unlocks in the year {0}</Item>
+		<Item Name="Currently used by">Actuellement utilisé par</Item>
+		<Item Name="Owned by">Appartient à</Item>
+		<Item Name="Nobody">Personne</Item>
+		<Item Name="Currently on">Actuellement activé</Item>
+		<Item Name="Currently off">Actuellement désactivé</Item>
+		<Item Name="FurnitureUnlock">Cet objet sera débloqué à partir de l'année {0}</Item>
 	</FurnitureInfo>
 	<RoomLimitNames>
 		<Item Name="Lounge">Lounge</Item>
-		<Item Name="Anyone">Anyone</Item>
+		<Item Name="Anyone">N'importe qui</Item>
 		<Item Name="Leaders">Leaders</Item>
-		<Item Name="Programmers">Programmers</Item>
+		<Item Name="Programmers">Programmeurs</Item>
 		<Item Name="Designers">Designers</Item>
-		<Item Name="Artists">Artists</Item>
+		<Item Name="Artists">Artistes</Item>
 		<Item Name="Marketing">Marketing</Item>
 	</RoomLimitNames>
 	<BuildMode>
-		<Item Name="Wall">Wall</Item>
-		<Item Name="Door">Door</Item>
-		<Item Name="Elevator">Elevator</Item>
-		<Item Name="Window">Window</Item>
-		<Item Name="Road">Road</Item>
+		<Item Name="Wall">Mur</Item>
+		<Item Name="Door">Porte</Item>
+		<Item Name="Elevator">Ascenseur</Item>
+		<Item Name="Window">Fenêtre</Item>
+		<Item Name="Road">Route</Item>
 		<Item Name="Parking">Parking</Item>
-		<Item Name="Room">Room</Item>
-		<Item Name="Destroy">Destroy</Item>
-		<Item Name="Remove">Remove</Item>
+		<Item Name="Room">Pièce</Item>
+		<Item Name="Destroy">Détruire</Item>
+		<Item Name="Remove">Retirer</Item>
 		<Item Name="Normal">Normal</Item>
 		<Item Name="Horizontal">Horizontal</Item>
 		<Item Name="Vertical">Vertical</Item>
-		<Item Name="Construct room">Construct room</Item>
-		<Item Name="Remove road">Remove road</Item>
-		<Item Name="Build road">Build road</Item>
-		<Item Name="Build horizontal parking">Build horizontal parking</Item>
-		<Item Name="Build vertical parking">Build vertical parking</Item>
-		<Item Name="Not available in demo">Not available in demo</Item>
-		<Item Name="Office">Office</Item>
-		<Item Name="Temperature">Temperature</Item>
-		<Item Name="Lighting">Lighting</Item>
-		<Item Name="Needs">Needs</Item>
-		<Item Name="Decoration">Decoration</Item>
+		<Item Name="Construct room">Construire pièce</Item>
+		<Item Name="Remove road">Retirer route</Item>
+		<Item Name="Build road">Construire route</Item>
+		<Item Name="Build horizontal parking">Construire un parking horizontal</Item>
+		<Item Name="Build vertical parking">Construire un parking vertical</Item>
+		<Item Name="Not available in demo">Non disponible dans la démo</Item>
+		<Item Name="Office">Bureau</Item>
+		<Item Name="Temperature">Température</Item>
+		<Item Name="Lighting">Lumière</Item>
+		<Item Name="Needs">Besoins</Item>
+		<Item Name="Decoration">Décoration</Item>
 	</BuildMode>
 	<RightClick>
-		<Item Name="ActionPair">Assign furniture to employee</Item>
-		<Item Name="ActionDefault Style">Set as default style</Item>
-		<Item Name="ActionUnify Style">Unify style of selected elements</Item>
-		<Item Name="ActionRoom Color">Room colors</Item>
-		<Item Name="ActionMaterial">Room patterns</Item>
-		<Item Name="ActionEducate">Educate employee</Item>
-		<Item Name="ActionDismiss">Dismiss employee</Item>
-		<Item Name="ActionSell">Sell furniture</Item>
-		<Item Name="ActionDestroy">Destroy room</Item>
-		<Item Name="ActionChange Team">Switch team</Item>
-		<Item Name="ActionLimit Use">Limit room usage</Item>
-		<Item Name="ActionSelect Building">Select entire building</Item>
-		<Item Name="ActionChange Role">Change employee role</Item>
-		<Item Name="ActionSend home">Send employee home</Item>
-		<Item Name="ActionFurniture color">Furniture color</Item>
-		<Item Name="ActionTypes in Room">Select furniture types in selected rooms</Item>
-		<Item Name="ActionDetails">Employee details</Item>
-		<Item Name="ActionChange Salary">Change employee salary</Item>
-		<Item Name="ActionSelect Team">Select entire team</Item>
-		<Item Name="ActionSelect Owned">Select furniture assigned to employee</Item>
-		<Item Name="ActionSelect Staff">Select employees in room</Item>
+		<Item Name="ActionPair">Assigner meuble à un employé</Item>
+		<Item Name="ActionDefault Style">Définir comme style par défaut</Item>
+		<Item Name="ActionUnify Style">Unifier le style des éléments sélectionnés</Item>
+		<Item Name="ActionRoom Color">Couleur des pièces</Item>
+		<Item Name="ActionMaterial">Motifs des pièces</Item>
+		<Item Name="ActionEducate">Former un employé</Item>
+		<Item Name="ActionDismiss">Licencier un employé</Item>
+		<Item Name="ActionSell">Vendre meuble</Item>
+		<Item Name="ActionDestroy">Détruire pièce</Item>
+		<Item Name="ActionChange Team">Changer d'équipe</Item>
+		<Item Name="ActionLimit Use">Limiter l'utilisation de la pièce</Item>
+		<Item Name="ActionSelect Building">Sélectionner le batiment entier</Item>
+		<Item Name="ActionChange Role">Choisir le rôle de l'employé</Item>
+		<Item Name="ActionSend home">Renvoyer l'employé à la maison</Item>
+		<Item Name="ActionFurniture color">Couleur du meuble</Item>
+		<Item Name="ActionTypes in Room">Sélectionner les types de meubles dans la pièce sélectionnée</Item>
+		<Item Name="ActionDetails">Détails de l'employé</Item>
+		<Item Name="ActionChange Salary">Modifier salaire de l'employé</Item>
+		<Item Name="ActionSelect Team">Sélectionner l'équipe entière</Item>
+		<Item Name="ActionSelect Owned">Sélectionner les meubles assignés à l'employé</Item>
+		<Item Name="ActionSelect Staff">Sélectionner les employés dans la pièce</Item>
 		<Item Name="ActionUnpair">Unassign furniture</Item>
-		<Item Name="ActionPair Use">Assign the furniture being used by employee</Item>
-		<Item Name="ActionUpgrade">Upgrade furniture to next tier</Item>
-		<Item Name="ActionMove">Move furniture</Item>
+		<Item Name="ActionPair Use">Assigné un meuble en cours d'utilisation à un employé</Item>
+		<Item Name="ActionUpgrade">Améliorer le meuble au tier suivant</Item>
+		<Item Name="ActionMove">Déplacer meuble</Item>
 	</RightClick>
 	<ProductWindow>
-		<Item Name="ProductChooseGeneric">Choose {0}</Item>
-		<Item Name="ProductChooseOS">Choose Operating System</Item>
-		<Item Name="ProductChooseSequel">Choose Sequel</Item>
-		<Item Name="PlayerReleases">My Releases</Item>
-		<Item Name="AllReleaes">All releases</Item>
-		<Item Name="CompanyReleases">Products for {0}</Item>
+		<Item Name="ProductChooseGeneric">Choisir {0}</Item>
+		<Item Name="ProductChooseOS">Choix du système d'exploitation</Item>
+		<Item Name="ProductChooseSequel">Choix d'une suite</Item>
+		<Item Name="PlayerReleases">Mes produits distribués</Item>
+		<Item Name="AllReleaes">Tous les produits distribués</Item>
+		<Item Name="CompanyReleases">Produits de {0}</Item>
 	</ProductWindow>
 	<WorkItems>
-		<Item Name="SupportTickets">{0} tickets in queue</Item>
-		<Item Name="CancelSupport">Cancel support</Item>
-		<Item Name="MarketingFundsOut">You have run out of funds to support your marketing campaign</Item>
-		<Item Name="MarketingStage">Talking to press</Item>
+		<Item Name="SupportTickets">{0} tickets en attente</Item>
+		<Item Name="CancelSupport">Annuler le support</Item>
+		<Item Name="MarketingFundsOut">Vous n'avez plus d'argent pour continuer la campagne marketing</Item>
+		<Item Name="MarketingStage">Discussion avec la presse</Item>
 		<Item Name="MarketingBalance">Net</Item>
-		<Item Name="DesignStageStockWait">Waiting for approval</Item>
+		<Item Name="DesignStageStockWait">En attente de validation</Item>
 		<Item Name="DesignStageDesigning">Designing</Item>
 		<Item Name="ThrowOutAuto">Throw out</Item>
 		<Item Name="DesignWaitLabel">Waiting</Item>
