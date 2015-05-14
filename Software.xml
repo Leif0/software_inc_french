@@ -26,7 +26,7 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 			</Feature>
 			<Feature Name="Multitasking">
 				<Name>Multitâche</Name>
-				<Description>Laissez vos utilisateurs faire semblant qu'ils peuvent faire plusieurs choses à la fois en ayant plusieurs applications ouvertes en meme temps.</Description>
+				<Description>Laissez vos utilisateurs faire semblant qu'ils peuvent faire plusieurs choses à la fois en ayant plusieurs applications ouvertes en même temps.</Description>
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
@@ -34,7 +34,7 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Réseau</Name>
-				<Description>Comment des usagers anonymes pourraient troller sans cette fonction utile?</Description>
+				<Description>Comment des usagers anonymes pourraient troller sans cette fonction utile ?</Description>
 			</Feature>
 			<Feature Name="Auto-update">
 				<Name>Mise à jour automatique</Name>
@@ -46,14 +46,14 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>Haut-Parleur PC</Name>
-				<Description>Pour tous vos besoins de cloche!</Description>
+				<Description>Pour tous vos besoins de cloche !</Description>
 			</Feature>
 			<Feature Name="8-bit audio">
 				<Name>Audio 8-bit</Name>
 			</Feature>
 			<Feature Name="HD audio">
 				<Name>Audio HD</Name>
-				<Description>Comme l'audio 8-bit, mais avec plus de bits!</Description>
+				<Description>Comme l'audio 8-bit, mais avec plus de bits !</Description>
 			</Feature>
 		</Features>
 	</Software>
@@ -91,7 +91,7 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 	</Software>
 	<Software Name="Game Engine">
 		<Name>Moteur de jeu</Name>
-		<Description>Le moteur de jeu est ce qui donne vie au jeu. Il contient tout ce que vous avec besoin pour un jeu, sauf la créativité.</Description>
+		<Description>Le moteur de jeu est ce qui donne vie au jeu. Il contient tout ce que vous avez besoin pour un jeu, sauf la créativité.</Description>
 		<Features>
 			<Feature Name="2D rendering">
 				<Name>Rendu 2D</Name>
@@ -185,7 +185,7 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 	</Software>
 	<Software Name="Antivirus">
 		<Name>Antivirus</Name>
-		<Description>Protège les ordinateurs des trouble-fêtes numériques depuis que c'est rentable.</Description>
+		<Description>Protège les ordinateurs des trouble-fêtes numériques, parce que c'est rentable.</Description>
 		<Features>
 			<Feature Name="File scan">
 				<Name>Scan de fichiers</Name>
@@ -257,4 +257,3 @@ La majorité des logiciels requierts un système d'exploitation pour tourner. Lo
 		<Description>Utilisez l'assurance qualité pour développer un logiciel plus stable ou réparer les bugs à mesure que vos utilisateurs tombent dessus.</Description>
 	</Feature>
 </Software>
-
