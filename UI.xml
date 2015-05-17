@@ -875,4 +875,77 @@ Right click to deselect and cancel.</Item>
 	<Item Name="Bought">Bought</Item>
 	<Item Name="Color">Color</Item>
 	<Item Name="NetProfit">Net profit</Item>
+
+<Alpha4.1>
+		<Item Name="AreYouSure">Are you sure you want to</Item>
+		<Item Name="MarketingWindowTitle">Marketing for {0}</Item>
+		<Item Name="PreMarketingWindowTitle">Pre-marketing for {0}</Item>
+		<Item Name="MarketingStop">End</Item>
+		<Item Name="On market">On market</Item>
+		<Item Name="Inventor">Inventor</Item>
+		<Item Name="CustomLeaderHint">Increases the ability to bring together a team, boost their stats and handle management tasks</Item>
+		<Item Name="CustomProgrammerHint">Increases how fast and the amount of quality the programmer can add and how quickly bugs are fixed</Item>
+		<Item Name="CustomDesignerHint">Increases the speed of finishing design work and makes the employee better at stopping before a design gets too complex</Item>
+		<Item Name="CustomArtistHint">Increases how fast and the amount of quality the artist can add to a product and how quickly flaws are fixed</Item>
+		<Item Name="CustomMarketerHint">Increases the effectiveness and speed of marketing campaigns and company reputation bonuses</Item>
+		<Item Name="ElectronicHeatWarning">Some of your electronics are being affected by the heat</Item>
+		<Item Name="ActionCoolOverride">Put ventilators in full cool mode to preserve electronics</Item>
+		<Item Name="CoolMode">Super cooling</Item>
+		<Item Name="Slavery">Slavery</Item>
+	</Alpha4.1>
+	<Alpha4.2>
+		<Item Name="NeedNotChosen">Choose need</Item>
+	</Alpha4.2>
+	<Alpha4.3>
+		<Item Name="Re-open">Re-open</Item>
+		<Item Name="cashflow">cashflow</Item>
+		<Item Name="Rooms">Rooms</Item>
+		<Item Name="Furniture">Furniture</Item>
+		<Item Name="SelectedEverything">Everything</Item>
+		<Item Name="JanuaryAbbr">Jan.</Item>
+		<Item Name="FebruaryAbbr">Feb.</Item>
+		<Item Name="MarchAbbr">Mar.</Item>
+		<Item Name="AprilAbbr">Apr.</Item>
+		<Item Name="MayAbbr">May</Item>
+		<Item Name="JuneAbbr">Jun.</Item>
+		<Item Name="JulyAbbr">Jul.</Item>
+		<Item Name="AugustAbbr">Aug.</Item>
+		<Item Name="SeptemberAbbr">Sep.</Item>
+		<Item Name="OctoberAbbr">Oct.</Item>
+		<Item Name="NovemberAbbr">Nov.</Item>
+		<Item Name="DecemberAbbr">Dec.</Item>
+		<Item Name="Day">Day</Item>
+		<Item Name="DayPostfix">day(s)</Item>
+		<Item Name="6 months">6 months</Item>
+		<Item Name="Last month">Last month</Item>
+		<Item Name="This month">This month</Item>
+		<Item Name="SheetHR">HR</Item>
+		<Item Name="SheetSalaries">Salaries</Item>
+		<Item Name="SheetStaff">Staff</Item>
+		<Item Name="SheetHire">Hire</Item>
+		<Item Name="SheetEducation">Education</Item>
+		<Item Name="SheetMaintenance">Maintenance</Item>
+		<Item Name="SheetConstruction">Construction</Item>
+		<Item Name="SheetRepairs">Repairs</Item>
+		<Item Name="SheetBills">Bills</Item>
+		<Item Name="SheetSoftware">Software</Item>
+		<Item Name="SheetSales">Sales</Item>
+		<Item Name="SheetLicenses">Licenses</Item>
+		<Item Name="SheetMarketing">Marketing</Item>
+		<Item Name="SheetContracts">Contracts</Item>
+		<Item Name="SheetDistribution">Distribution</Item>
+		<Item Name="SheetMisc">Misc</Item>
+		<Item Name="SheetStocks">Stocks</Item>
+		<Item Name="SheetLoan">Loan</Item>
+		<Item Name="SheetInterest">Interest</Item>
+		<Item Name="SheetNA">N/A</Item>
+		<Item Name="DaysPerMonth">Days per month</Item>
+		<Item Name="OffMarketHint">If a product is affecting your reputation or you can't support it, it might be a good idea to pull it off the market. It can affect your reputation.</Item>
+	</Alpha4.3>
+	<Alpha4.4>
+		<Item Name="Room Aura">Room Aura</Item>
+		<Item Name="Janitor">Maintenance</Item>
+		<Item Name="IT">IT</Item>
+	</Alpha4.4>
+	
 </UI>

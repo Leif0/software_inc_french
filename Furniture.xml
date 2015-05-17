@@ -99,6 +99,10 @@
 		<Name>Rack de serveurs</Name>
 		<Description>Lorsqu'un ordinateur ne suffit pas</Description>
 	</Furniture>
+	<Furniture Name="Couch">
+		<Name>Canapé</Name>
+		<Description>Living Room Inc.</Description>
+	</Furniture>
 	<Segment Name="Wall">
 		<Name>Mur</Name>
 		<Description>Utilisez ca pour retirer les fenêtres et les portes</Description>
