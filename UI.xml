@@ -149,12 +149,12 @@
 		<Item Name="Products">Produits</Item>
 		<Item Name="Owner">Propriétaire</Item>
 		<Item Name="Share">Part</Item>
-		<Item Name="Change">Changer</Item>
+		<Item Name="Change">Variation</Item>
 		<Item Name="Worth">Valeur</Item>
 		<Item Name="Cost">Coût</Item>
 		<Item Name="Sell">Vendre</Item>
 		<Item Name="Buy">Acheter</Item>
-		<Item Name="Count">Count</Item>
+		<Item Name="Count">Nombre</Item>
 		<Item Name="Compatibility">Compatibilité</Item>
 		<Item Name="Work">Travail</Item>
 		<Item Name="Employees">Employés</Item>
@@ -243,7 +243,7 @@
 		<Item Name="NameGenTip">Cliquez ici pour générer un nom aléatoire</Item>
 		<Item Name="OpenSourceTip">Distribuer votre produit gratuitement pour gagner en popularité</Item>
 		<Item Name="InHouseTip">Garder ce produit pour vous, pour que vos concurrents n'y ait pas accès</Item>
-		<Item Name="StandardProductName">Produkt navn</Item>
+		<Item Name="StandardProductName">Nom du produit</Item>
 		<Item Name="DesignDetailBox">Temps de développement: {3}
 Artistes requis: {7}
 Qualité dans le meilleur des cas: {0}
@@ -766,7 +766,7 @@ Vous pouvez lancer une campagne marketing après la mise sur le marché d'un pro
 		<Item Name="Used in">Utilisé dans</Item>
 		<Item Name="Features">Fonctionnalités</Item>
 		<Item Name="Take off market">Retirer du marché</Item>
-		<Item Name="Put on market">Mettre sur le marché</Item>
+		<Item Name="Put on market">Date de mise sur le marché</Item>
 		<Item Name="ProductDetailTitle">Détails pour {0}</Item>
 		<Item Name="ProductDetailLeftText">Nom: {0}
 Entreprise: {1}({2})
@@ -921,7 +921,7 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="SheetHR">RH</Item>
 		<Item Name="SheetSalaries">Salaires</Item>
 		<Item Name="SheetStaff">Staff</Item>
-		<Item Name="SheetHire">Engager</Item>
+		<Item Name="SheetHire">Embauche</Item>
 		<Item Name="SheetEducation">Formation</Item>
 		<Item Name="SheetMaintenance">Maintenance</Item>
 		<Item Name="SheetConstruction">Construction</Item>
