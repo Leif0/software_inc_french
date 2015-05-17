@@ -1,5 +1,3 @@
-# software_inc_french
-
 ##Installation
 
 * Créer un fichier "French" dans le dossier d'installation du jeu (C:\Steam\steamapps\common\Software Inc\Localization) et placer ces fichiers à l'intérieur
