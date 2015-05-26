@@ -137,7 +137,7 @@
 		<Item Name="Profit">Profit</Item>
 		<Item Name="Open source">Open source</Item>
 		<Item Name="Loss">Perte</Item>
-		<Item Name="Market">Marché</Item>
+		<Item Name="Market">Promouvoir</Item>
 		<Item Name="Details">Détails</Item>
 		<Item Name="Worth">Valeur</Item>
 		<Item Name="Reputation">Réputation</Item>
@@ -946,5 +946,25 @@ Clic droit pour déselectionner et annuler.</Item>
 		<Item Name="Janitor">Maintenance</Item>
 		<Item Name="IT">Support technique</Item>
 	</Alpha4.4>
-	
+	<Alpha4.5>
+		<Item Name="Month">Mois</Item>
+		<Item Name="Year">Année</Item>
+		<Item Name="PresimLoadMsg">Génération du marché...</Item>
+		<Item Name="VacationNotify">{0} employé(s) sont partis en vacances</Item>
+		<Item Name="RetireNotify">{0} est parti en retraite</Item>
+		<Item Name="SickNotify">{0} est malade, il ne viendra pas au travail</Item>
+		<Item Name="DiedNotify">{0} est mort !</Item>
+		<Item Name="HospitalizedNotify">{0} a eu un accident et a donné sa démission !</Item>
+		<Item Name="Skip day">Passer au jour suivant</Item>
+		<Item Name="CompanyLoadMsg">Entreprises actives</Item>
+		<Item Name="TeamCompat0">N/A</Item>
+		<Item Name="TeamCompat1">Extremement mauvaise</Item>
+		<Item Name="TeamCompat2">Très mauvaise</Item>
+		<Item Name="TeamCompat3">Mauvaise</Item>
+		<Item Name="TeamCompat4">Normale</Item>
+		<Item Name="TeamCompat5">Bonne</Item>
+		<Item Name="TeamCompat6">Très bonne</Item>
+		<Item Name="TeamCompat7">Incroyable</Item>
+		<Item Name="ITBrokeWarning">Certains équipements sont cassés et nécessitent le support technique</Item>
+	</Alpha4.5>
 </UI>
